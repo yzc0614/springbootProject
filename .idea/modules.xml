@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day1/spring-day1.iml" filepath="$PROJECT_DIR$/spring-day1/spring-day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day2/spring-day2.iml" filepath="$PROJECT_DIR$/spring-day2/spring-day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day3/spring-day3.iml" filepath="$PROJECT_DIR$/spring-day3/spring-day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-day4/spring-day4.iml" filepath="$PROJECT_DIR$/spring-day4/spring-day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-connenct/springboot-connenct.iml" filepath="$PROJECT_DIR$/springboot-connenct/springboot-connenct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-security/springboot-security.iml" filepath="$PROJECT_DIR$/springboot-security/springboot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" filepath="$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-task/springboot-task.iml" filepath="$PROJECT_DIR$/springboot-task/springboot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-user/springboot-user.iml" filepath="$PROJECT_DIR$/springboot-user/springboot-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+    </modules>
+  </component>
+</project>

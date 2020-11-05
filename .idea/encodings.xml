@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-day4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-connenct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-shiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-user/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
